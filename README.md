@@ -145,7 +145,7 @@ Soon :D
 
 ## Links
 - [Java 8](https://www.java.com)  
-- Author: [Charles_Grozny](https://github.com/formerkuromi)  
+- Author: [Denys](https://github.com/formerkuromi)  
 
 ---
 
